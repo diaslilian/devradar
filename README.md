@@ -81,7 +81,7 @@ $ cd ../web
 # Install dependencies
 $ yarn install
 
-# Start the backend server
+# Start the web server
 $ yarn start
 ```
 
