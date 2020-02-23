@@ -2,13 +2,7 @@
 
 Projeto desenvolvido na Semana OmniStack 10, aplicação que cadastra e busca os desenvolvedores utilizando geolocalização. Podendo ser filtrados pela tecnologia que trabalham.
 
-### WEB
-
-![web](https://user-images.githubusercontent.com/47895394/72686652-c5406c00-3ad5-11ea-973a-6ecabdb27218.png)
-
-### MOBILE
-
-![mobile](https://user-images.githubusercontent.com/47895394/72686497-43037800-3ad4-11ea-97a0-2f85572266ee.png)
+![devradar](https://user-images.githubusercontent.com/47895394/75122042-9c813880-5678-11ea-9452-3570abf48a41.jpg)
 
 ## :rocket: Tecnologias
 
